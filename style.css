@@ -1,0 +1,15 @@
+div#box{
+    border: 2px solid #d01818;
+    background-color: #f3f3f5;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.message{
+    border: 2px solid #cb2c2c;
+    background-color: #cf2a2a;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
